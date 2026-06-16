@@ -1,0 +1,100 @@
+# פירורים — Generative Engine Optimization Map
+
+> A home-based artisan bakery specializing in custom-designed cakes, handcrafted cookies, gift boxes, and baked goods. The business emphasizes handmade quality and creative, personalized designs, giving it a warm, boutique feel with an artisanal touch. Each product appears to be crafted with care and attention to detail, suggesting a brand identity rooted in creativity, craftsmanship, and personal warmth.
+
+---
+
+## Pages
+
+### בית
+https://-8ee342e2.zappy5.app
+פירורים – מאפיית בוטיק ביתית לעוגות מעוצבות, עוגיות גורמה ומארזי מתנה בהתאמה אישית. כל ביס מספר סיפור של איכות ויצירה. הזמינו עכשיו חוויה מתוקה הביתה.
+
+### שירותים
+https://-8ee342e2.zappy5.app/services
+מחפשים עוגת בנטו מושלמת או מארז עוגיות מרשים? גלו את מגוון השירותים של פירורים – עיצובים אישיים, חומרי גלם משובחים והגשה שמותאמת בדיוק לאירוע שלכם. התחילו לעצב את המתוק הבא.
+
+### אודות
+https://-8ee342e2.zappy5.app/about
+הכירו את פירורים – מאפייה ביתית שקמה מאהבה למתוקים בעבודת יד. מהמטבח הקטן ועד לעיצובים הכי יצירתיים, אנחנו מביאים תשוקה, דיוק וטאץ&#39; אישי לכל עוגה ועוגייה. בואו להכיר אותנו מקרוב.
+
+### צור קשר
+https://-8ee342e2.zappy5.app/contact
+יש לכם רעיון לעוגה מעוצבת או מארז מתנה ייחודי? צרו קשר עם פירורים עוד היום – נשמח לשמוע, לייעץ ולהפוך את החלום המתוק שלכם למציאות טעימה במיוחד. מלאו את הפרטים ונתחיל.
+
+### Products
+https://-8ee342e2.zappy5.app/products
+המוצרים שלנו - פירורים
+
+### Cart
+https://-8ee342e2.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-8ee342e2.zappy5.app/checkout
+תשלום
+
+### Login
+https://-8ee342e2.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-8ee342e2.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-8ee342e2.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-8ee342e2.zappy5.app/product/:slug
+פרטי המוצר - פירורים
+
+### Category
+https://-8ee342e2.zappy5.app/category/:slug
+מוצרים - פירורים
+
+## Legal & Policy
+
+### Privacy Policy
+https://-8ee342e2.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-8ee342e2.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-8ee342e2.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About פירורים
+A home-based artisan bakery specializing in custom-designed cakes, handcrafted cookies, gift boxes, and baked goods. The business emphasizes handmade quality and creative, personalized designs, giving it a warm, boutique feel with an artisanal touch. Each product appears to be crafted with care and attention to detail, suggesting a brand identity rooted in creativity, craftsmanship, and personal warmth.
+
+## Target Audience
+- חובבי עוגות מעוצבות
+- רוכשי מארזי מתנה
+- חובבי מזון בעבודת יד
+
+## Industry
+Home Bakery / Artisan Food
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-8ee342e2.zappy5.app/sitemap.xml
+- Robots: https://-8ee342e2.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-8ee342e2.zappy5.app/llms-full.txt
+- Products (JSON): https://-8ee342e2.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-8ee342e2.zappy5.app/product-feed.xml
