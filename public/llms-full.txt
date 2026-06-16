@@ -2,13 +2,13 @@
 
 A home-based artisan bakery specializing in custom-designed cakes, handcrafted cookies, gift boxes, and baked goods. The business emphasizes handmade quality and creative, personalized designs, giving it a warm, boutique feel with an artisanal touch. Each product appears to be crafted with care and attention to detail, suggesting a brand identity rooted in creativity, craftsmanship, and personal warmth.
 
-Source: https://-8ee342e2.zappy5.app
+Source: https://example.com
 
 ---
 
 ## מאפים בעבודת יד שמרגישים את האהבה — פירורים
 
-URL: https://-8ee342e2.zappy5.app
+URL: https://example.com
 Description: פירורים – מאפיית בוטיק ביתית לעוגות מעוצבות, עוגיות גורמה ומארזי מתנה בהתאמה אישית. כל ביס מספר סיפור של איכות ויצירה. הזמינו עכשיו חוויה מתוקה הביתה.
 
 מאפים בעבודת יד שמרגישים את האהבה — פירורים
@@ -408,7 +408,7 @@ Description: פירורים – מאפיית בוטיק ביתית לעוגות 
 
 ## עוגות בעיצוב אישי ומארזי מתנה מפנקים — פירורים
 
-URL: https://-8ee342e2.zappy5.app/services
+URL: https://example.com/services
 Description: מחפשים עוגת בנטו מושלמת או מארז עוגיות מרשים? גלו את מגוון השירותים של פירורים – עיצובים אישיים, חומרי גלם משובחים והגשה שמותאמת בדיוק לאירוע שלכם. התחילו לעצב את המתוק הבא.
 
 עוגות בעיצוב אישי ומארזי מתנה מפנקים — פירורים
@@ -967,7 +967,7 @@ Description: מחפשים עוגת בנטו מושלמת או מארז עוגי�
 
 ## הסיפור המתוק שמאחורי כל פירור — פירורים
 
-URL: https://-8ee342e2.zappy5.app/about
+URL: https://example.com/about
 Description: הכירו את פירורים – מאפייה ביתית שקמה מאהבה למתוקים בעבודת יד. מהמטבח הקטן ועד לעיצובים הכי יצירתיים, אנחנו מביאים תשוקה, דיוק וטאץ&#39; אישי לכל עוגה ועוגייה. בואו להכיר אותנו מקרוב.
 
 הסיפור המתוק שמאחורי כל פירור — פירורים
@@ -1384,7 +1384,7 @@ Description: הכירו את פירורים – מאפייה ביתית שקמה
 
 ## דברו איתי – בואו נתכנן את הפינוק המושלם — פירורים
 
-URL: https://-8ee342e2.zappy5.app/contact
+URL: https://example.com/contact
 Description: יש לכם רעיון לעוגה מעוצבת או מארז מתנה ייחודי? צרו קשר עם פירורים עוד היום – נשמח לשמוע, לייעץ ולהפוך את החלום המתוק שלכם למציאות טעימה במיוחד. מלאו את הפרטים ונתחיל.
 
 דברו איתי – בואו נתכנן את הפינוק המושלם — פירורים
@@ -1817,7 +1817,7 @@ Description: יש לכם רעיון לעוגה מעוצבת או מארז מתנ
 
 ## מוצרים
 
-URL: https://-8ee342e2.zappy5.app/products
+URL: https://example.com/products
 Description: המוצרים שלנו - פירורים
 
 מוצרים - פירורים
@@ -2071,7 +2071,7 @@ Description: המוצרים שלנו - פירורים
 
 ## עגלת קניות
 
-URL: https://-8ee342e2.zappy5.app/cart
+URL: https://example.com/cart
 Description: עגלת הקניות שלך
 
 עגלת קניות - פירורים
@@ -2301,7 +2301,7 @@ Description: עגלת הקניות שלך
 
 ## תשלום
 
-URL: https://-8ee342e2.zappy5.app/checkout
+URL: https://example.com/checkout
 Description: תשלום
 
 תשלום - פירורים
@@ -2717,7 +2717,7 @@ Description: תשלום
 
 ## התחברות
 
-URL: https://-8ee342e2.zappy5.app/login
+URL: https://example.com/login
 Description: התחברות לקוחות
 
 התחברות - פירורים
@@ -2954,7 +2954,7 @@ Description: התחברות לקוחות
 
 ## החשבון שלי
 
-URL: https://-8ee342e2.zappy5.app/account
+URL: https://example.com/account
 Description: החשבון שלי
 
 החשבון שלי - פירורים
@@ -3346,7 +3346,7 @@ Description: החשבון שלי
 
 ## ההזמנה התקבלה!
 
-URL: https://-8ee342e2.zappy5.app/order-success
+URL: https://example.com/order-success
 Description: תודה על ההזמנה
 
 ההזמנה התקבלה! - פירורים
@@ -3600,7 +3600,7 @@ Description: תודה על ההזמנה
 
 ## מדיניות החזרות
 
-URL: https://-8ee342e2.zappy5.app/return-policy
+URL: https://example.com/return-policy
 Description: מדיניות החזרת מוצרים - זכויותיכם להחזרה והחלפה בהתאם לחוק
 
 מדיניות החזרות - פירורים
@@ -3883,7 +3883,7 @@ Description: מדיניות החזרת מוצרים - זכויותיכם להח�
 
 ## פרטי המוצר
 
-URL: https://-8ee342e2.zappy5.app/product/:slug
+URL: https://example.com/product/:slug
 Description: פרטי המוצר - פירורים
 
 פרטי המוצר - פירורים
@@ -4115,7 +4115,7 @@ Description: פרטי המוצר - פירורים
 
 ## מוצרים
 
-URL: https://-8ee342e2.zappy5.app/category/:slug
+URL: https://example.com/category/:slug
 Description: מוצרים - פירורים
 
 מוצרים - פירורים
@@ -4371,7 +4371,7 @@ Description: מוצרים - פירורים
 
 ## מדיניות פרטיות
 
-URL: https://-8ee342e2.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -4645,7 +4645,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://-8ee342e2.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -4928,7 +4928,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://-8ee342e2.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש

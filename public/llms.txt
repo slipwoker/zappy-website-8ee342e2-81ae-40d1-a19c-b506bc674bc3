@@ -7,65 +7,65 @@
 ## Pages
 
 ### בית
-https://-8ee342e2.zappy5.app
+https://example.com
 פירורים – מאפיית בוטיק ביתית לעוגות מעוצבות, עוגיות גורמה ומארזי מתנה בהתאמה אישית. כל ביס מספר סיפור של איכות ויצירה. הזמינו עכשיו חוויה מתוקה הביתה.
 
 ### שירותים
-https://-8ee342e2.zappy5.app/services
+https://example.com/services
 מחפשים עוגת בנטו מושלמת או מארז עוגיות מרשים? גלו את מגוון השירותים של פירורים – עיצובים אישיים, חומרי גלם משובחים והגשה שמותאמת בדיוק לאירוע שלכם. התחילו לעצב את המתוק הבא.
 
 ### אודות
-https://-8ee342e2.zappy5.app/about
+https://example.com/about
 הכירו את פירורים – מאפייה ביתית שקמה מאהבה למתוקים בעבודת יד. מהמטבח הקטן ועד לעיצובים הכי יצירתיים, אנחנו מביאים תשוקה, דיוק וטאץ&#39; אישי לכל עוגה ועוגייה. בואו להכיר אותנו מקרוב.
 
 ### צור קשר
-https://-8ee342e2.zappy5.app/contact
+https://example.com/contact
 יש לכם רעיון לעוגה מעוצבת או מארז מתנה ייחודי? צרו קשר עם פירורים עוד היום – נשמח לשמוע, לייעץ ולהפוך את החלום המתוק שלכם למציאות טעימה במיוחד. מלאו את הפרטים ונתחיל.
 
 ### Products
-https://-8ee342e2.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - פירורים
 
 ### Cart
-https://-8ee342e2.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://-8ee342e2.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://-8ee342e2.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://-8ee342e2.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://-8ee342e2.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://-8ee342e2.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - פירורים
 
 ### Category
-https://-8ee342e2.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - פירורים
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-8ee342e2.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-8ee342e2.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-8ee342e2.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -93,8 +93,8 @@ Home Bakery / Artisan Food
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-8ee342e2.zappy5.app/sitemap.xml
-- Robots: https://-8ee342e2.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-8ee342e2.zappy5.app/llms-full.txt
-- Products (JSON): https://-8ee342e2.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-8ee342e2.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
